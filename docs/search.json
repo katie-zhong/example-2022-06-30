@@ -1,0 +1,28 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-06-30T20:16:36-04:00"
+    },
+    {
+      "path": "hof.html",
+      "author": [],
+      "date": "2022-06-28",
+      "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-06-30T20:16:43-04:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Hall of Fame",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-06-30T20:16:48-04:00"
+    }
+  ],
+  "collections": []
+}
